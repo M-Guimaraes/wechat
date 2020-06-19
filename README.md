@@ -11,8 +11,8 @@
 
 
 # Instalação
-Executar o script `sh ./deploy-docker.sh`
-Roda a aplicação no Docker que inicia automaticamente o back-end e front-end da aplicação. 
+Execute o script `sh ./deploy-docker.sh`
+na pasta raíz da aplicação para iniciar automaticamente o back-end e front-end da aplicação no Docker. 
 
 
 # Iniciar o back-end 
