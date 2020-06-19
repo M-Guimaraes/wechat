@@ -2,8 +2,12 @@
 
 
 # Tela de join
+![joinToChat](https://user-images.githubusercontent.com/61422704/85086070-04bbd300-b1b0-11ea-8748-4d15b8bbc0a7.png)
 
-https://github.com/M-Guimaraes/wechat/issues/1#issue-641630836
+
+# Área de mensagem
+![messageArea](https://user-images.githubusercontent.com/61422704/85085959-cb836300-b1af-11ea-9f68-94a8a9d943ec.png)
+
 
 
 # Instalação
