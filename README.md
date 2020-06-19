@@ -1,6 +1,9 @@
 # WeChat
 
-![](header.png)
+
+# Tela de join
+
+https://github.com/M-Guimaraes/wechat/issues/1#issue-641630836
 
 
 # Instalação
