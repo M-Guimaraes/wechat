@@ -14,6 +14,7 @@
 Execute o script `sh ./deploy-docker.sh`
 na pasta raíz da aplicação para iniciar automaticamente o back-end e front-end no Docker. 
 
+ou inicie manualmente
 
 # Iniciar o back-end 
 Na pasta front-end execute `npm install` 
