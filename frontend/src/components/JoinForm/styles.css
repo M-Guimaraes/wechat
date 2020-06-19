@@ -1,0 +1,63 @@
+.join-form {
+
+  margin-top: 30px;
+  max-width: 500px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex: 1;
+  border-radius: 8px 8px 8px 8px;
+  background-image: url('../../assets/images/triangle.svg') ;
+}
+
+.join-form .user-input{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  padding: 10px;
+}
+
+.join-form .user-input p {
+  color:#fff;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 8px;
+  line-height: 1.5;
+
+}
+
+.join-form .user-input p span {
+  display: block;
+  font-size: 16px;
+
+
+}
+
+.join-form .user-input input{
+  height: 30px;
+  border: none;
+  border-radius: 2px;
+  width: 200px;
+  text-align: center;
+
+}
+
+.join-form  .submit-button button {
+  width: 200px;
+  height: 30px;
+  border: 1px solid #fff;
+  border-radius: 2px;
+  cursor: pointer;
+  background-color:#00B7FF;
+  transition: all 2ms;
+  color: #fff;
+}
+
+.join-form  .submit-button button:hover{
+  background-color: #59ECFF;
+  color: #fff;
+  outline: none;
+}
+

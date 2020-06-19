@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*:focus{
+  outline: none;
+}
+html {
+  font-family: 'Nunito', sans-serif;
+}
+body {
+  background-color: #D8DEDD;
+}
