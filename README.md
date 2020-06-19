@@ -14,6 +14,9 @@
 Execute o script `sh ./deploy-docker.sh`
 na pasta raíz da aplicação para iniciar automaticamente o back-end e front-end no Docker. 
 
+# Para finalizar
+Execute o script `docker-compose stop`
+
 ou inicie manualmente
 
 # Iniciar o back-end 
@@ -29,5 +32,8 @@ para instalar as dependências
 
 Execute `npm start`
 para iniciar o front-end
+
+# Para finalizar
+Execute o script `CRTL + C` nas duas pastas, front-end e back-end
 
 # Acesse o http://localhost:3000 para acessar a plicação
